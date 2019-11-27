@@ -1,2 +1,2 @@
 # PythonHomework_BCB546
-Python homeworkf repository
+Python homework repository
